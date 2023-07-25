@@ -1,1 +1,0 @@
-geoapify_key = "68e4da4a9df64bc6884ab7397d5097cb"
