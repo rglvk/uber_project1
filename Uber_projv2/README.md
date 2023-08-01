@@ -14,3 +14,5 @@ Assumptions:
 kaggle.comkaggle.com
 Uber Data Analysis Project
 Explore and run machine learning code with Kaggle Notebooks | Using data from Uber Data Analysis:car: :taxi:
+# Analysis and Conclusion Found HERE - https://docs.google.com/document/d/1V8mcnc1jp1JjGeqix79wK3Ut2Doz-CAfUddLUzN1xVI/edit#heading=h.lkksreynrx80
+# Slide deck found HERE - https://docs.google.com/presentation/d/1M8tUhtkH0mhesa25YH41NHGourmHZg-JjYB_o6f2C7I/edit#slide=id.p
